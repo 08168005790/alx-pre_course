@@ -1,1 +1,1 @@
-Alx is my first SE journey.
+My first readme
